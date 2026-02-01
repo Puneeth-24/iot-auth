@@ -74,7 +74,7 @@ Internet-of-Things (IoT) devices often need identity verification and authentica
 Before running, install all dependencies:
 
 ```bash
-pip install cryptography tkinter
+pip install -r requirements.txt
 ```
 ---
 
